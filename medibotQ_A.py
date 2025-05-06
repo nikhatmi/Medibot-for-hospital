@@ -38,6 +38,7 @@ def get_best_answer(query, model, index, questions, answers):
 # st.set_page_config(page_title="My Chatbot", layout="centered")
 
 st.subheader(":orange[AI Powered Chatbot:]")
+st.image("image.png")
 cola, colb , colc = st.columns([0.2,0.05,0.2])
 with colb:
     st.write(":red[Converse!]")
