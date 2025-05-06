@@ -1,0 +1,501 @@
+Age,Symptoms,Expected Disease,Severity,Suggested Department,Initial Doctor Advice
+42,"memory loss, confusion",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+59,"fever, cough",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+43,"confusion, difficulty speaking, memory loss",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+39,"persistent cough, chest pain, weight loss, fatigue",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+74,"blurred vision, headache, nausea, sensitivity to light",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+6,"weight loss, fatigue, chest pain, persistent cough",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+7,"joint pain, swelling",Arthritis,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+61,"tremor, stiffness, slow movement, balance issues",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+20,"abdominal pain, constipation, bloating, diarrhea",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+2,"shortness of breath, chest pain, nausea",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+25,"sweating, nausea, chest pain",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+75,"memory loss, difficulty speaking",Alzheimer's,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+5,"fatigue, joint pain, swelling",Arthritis,Moderate,General Medicine,Schedule an appointment for further testing.
+19,"difficulty speaking, confusion",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+50,"abdominal pain, constipation, bloating, diarrhea",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+57,"fatigue, swelling, joint pain",Arthritis,Moderate,General Medicine,Schedule an appointment for further testing.
+65,"balance issues, tremor, stiffness",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+27,"fatigue, frequent urination, extreme thirst",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+47,"tremor, slow movement, stiffness, balance issues",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+42,"sensitivity to light, nausea",Migraine,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+33,"tremor, slow movement, balance issues",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+50,"joint pain, fatigue",Arthritis,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+88,"fatigue, extreme thirst, frequent urination, weight loss",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+46,"constipation, bloating, abdominal pain, diarrhea",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+45,"sore throat, chills",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+26,"constipation, diarrhea, abdominal pain",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+63,"difficulty speaking, confusion, memory loss, mood changes",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+6,"weight loss, chest pain, persistent cough, fatigue",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+65,"confusion, difficulty speaking",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+56,"cough, fever, body ache",Flu,Moderate,General Medicine,Schedule an appointment for further testing.
+50,"extreme thirst, weight loss, frequent urination",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+14,"bloating, abdominal pain, diarrhea, constipation",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+90,"chills, sore throat",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+66,"sensitivity to light, headache",Migraine,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+22,"frequent urination, extreme thirst, weight loss, fatigue",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+23,"mood changes, memory loss, difficulty speaking, confusion",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+3,"swelling, stiffness",Arthritis,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+52,"stiffness, balance issues, tremor",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+24,"tremor, stiffness, balance issues",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+56,"fatigue, joint pain, stiffness",Arthritis,Moderate,General Medicine,Schedule an appointment for further testing.
+72,"chest pain, persistent cough, fatigue, weight loss",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+58,"itchy skin, runny nose, rash",Allergy,Moderate,General Medicine,Schedule an appointment for further testing.
+35,"shortness of breath, sweating",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+50,"blurred vision, sensitivity to light",Migraine,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+21,"nausea, blurred vision, sensitivity to light",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+52,"memory loss, mood changes, confusion, difficulty speaking",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+29,"sweating, shortness of breath, chest pain",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+89,"chest pain, weight loss, fatigue, persistent cough",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+51,"shortness of breath, nausea, sweating",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+86,"nausea, sweating, shortness of breath",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+27,"sensitivity to light, nausea, headache, blurred vision",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+85,"difficulty speaking, memory loss, confusion",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+14,"constipation, bloating, abdominal pain, diarrhea",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+40,"itchy skin, sneezing, runny nose, rash",Allergy,Moderate,General Medicine,Schedule an appointment for further testing.
+21,"chills, cough, body ache, sore throat",Flu,Moderate,General Medicine,Schedule an appointment for further testing.
+50,"body ache, fever",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+17,"chest pain, nausea, shortness of breath, sweating",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+3,"weight loss, chest pain, persistent cough",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+23,"chest pain, sweating",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+66,"diarrhea, bloating",IBS,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+81,"blurred vision, headache, sensitivity to light",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+25,"mood changes, difficulty speaking",Alzheimer's,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+89,"runny nose, itchy skin, sneezing, rash",Allergy,Moderate,General Medicine,Schedule an appointment for further testing.
+7,"fever, sore throat, cough",Flu,Moderate,General Medicine,Schedule an appointment for further testing.
+20,"weight loss, fatigue, chest pain",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+11,"difficulty speaking, mood changes, memory loss, confusion",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+45,"confusion, mood changes",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+28,"body ache, cough",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+3,"body ache, sore throat",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+32,"balance issues, stiffness, tremor",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+86,"stiffness, fatigue, joint pain, swelling",Arthritis,Moderate,General Medicine,Schedule an appointment for further testing.
+89,"weight loss, persistent cough, fatigue, chest pain",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+30,"body ache, fever",Flu,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+57,"stiffness, swelling",Arthritis,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+18,"chest pain, weight loss, persistent cough, fatigue",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+60,"chest pain, shortness of breath, nausea, sweating",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+36,"fatigue, frequent urination",Diabetes,Low,Endocrinology,Monitor symptoms and take prescribed rest or medication.
+24,"mood changes, confusion, memory loss",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+54,"fatigue, frequent urination, extreme thirst",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+55,"chest pain, persistent cough, fatigue",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+77,"confusion, difficulty speaking",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+25,"runny nose, sneezing, itchy skin",Allergy,Moderate,General Medicine,Schedule an appointment for further testing.
+54,"rash, itchy skin",Allergy,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+37,"abdominal pain, constipation, bloating",IBS,Moderate,General Medicine,Schedule an appointment for further testing.
+41,"fever, body ache, chills",Flu,Moderate,General Medicine,Schedule an appointment for further testing.
+29,"headache, blurred vision, sensitivity to light, nausea",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+13,"blurred vision, nausea, headache, sensitivity to light",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+18,"diarrhea, bloating",IBS,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+18,"balance issues, slow movement",Parkinson's Disease,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+70,"chest pain, persistent cough",Tuberculosis,High,Pulmonology,Please visit the hospital immediately for emergency evaluation.
+74,"constipation, bloating",IBS,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+2,"sweating, nausea, chest pain, shortness of breath",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+16,"extreme thirst, fatigue, weight loss, frequent urination",Diabetes,Moderate,Endocrinology,Schedule an appointment for further testing.
+69,"difficulty speaking, confusion, memory loss, mood changes",Alzheimer's,High,Neurology,Please visit the hospital immediately for emergency evaluation.
+78,"sneezing, runny nose",Allergy,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+70,"nausea, shortness of breath, sweating, chest pain",Heart Attack,High,General Medicine,Please visit the hospital immediately for emergency evaluation.
+56,"sneezing, rash",Allergy,Low,General Medicine,Monitor symptoms and take prescribed rest or medication.
+83,"sensitivity to light, blurred vision",Migraine,Low,Neurology,Monitor symptoms and take prescribed rest or medication.
+25,"nausea, sensitivity to light, headache, blurred vision",Migraine,Moderate,Neurology,Schedule an appointment for further testing.
+85,"balance issues, tremor, stiffness",Parkinson's Disease,Moderate,General Medicine,Schedule an appointment for further testing.
+51,"frequent urination, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+74,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+44,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+50,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+20,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+85,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+49,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+50,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+32,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+82,"increased thirst, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+61,"sweating, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+38,"chest tightness, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+32,"fever, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+73,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+22,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+55,"joint pain, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+63,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+78,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+62,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+76,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+83,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+30,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+49,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+21,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+53,"headache, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+29,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+44,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+62,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+78,"frequent urination, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+19,"heartburn, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+76,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+35,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+70,"sweating, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+83,"increased thirst, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+45,"chills, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+33,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+32,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+57,"persistent sadness, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+67,"chills, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+51,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+29,"fatigue, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+58,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+49,"frequent urination, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+49,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+58,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+43,"cough, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+33,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+48,"fever, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+84,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+40,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+75,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+76,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+45,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+54,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+48,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+54,"heartburn, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+20,"heartburn, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+35,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+58,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+65,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+21,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+77,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+33,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+55,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+47,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+80,"shortness of breath, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+66,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+56,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+29,"cough, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+36,"acid reflux, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+75,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+52,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+66,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+83,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+34,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+70,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+63,"chills, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+32,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+48,"headache, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+33,"fever, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+39,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+26,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+60,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+76,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+37,"chills, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+44,"persistent sadness, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+23,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+45,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+72,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+64,"chills, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+73,"cough, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+48,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+34,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+44,"fatigue, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+82,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+38,"heartburn, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+30,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+37,"sweating, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+77,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+81,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+53,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+48,"heartburn, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+47,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+82,"persistent sadness, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+35,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+20,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+39,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+61,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+65,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+84,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+41,"sleep issues, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+35,"shortness of breath, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+52,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+28,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+81,"sweating, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+71,"chills, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+41,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+69,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+21,"shortness of breath, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+29,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+52,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+26,"persistent sadness, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+85,"sleep issues, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+48,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+58,"shortness of breath, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+20,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+20,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+30,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+65,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+24,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+45,"sweating, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+66,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+70,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+62,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+50,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+46,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+71,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+21,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+38,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+54,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+46,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+46,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+56,"loss of taste or smell, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+71,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+32,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+29,"fatigue, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+18,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+25,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+40,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+43,"joint pain, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+84,"cough, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+47,"sleep issues, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+41,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+31,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+50,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+41,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+43,"joint pain, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+42,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+35,"acid reflux, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+42,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+59,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+57,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+35,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+68,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+26,"increased thirst, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+85,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+59,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+48,"persistent sadness, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+71,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+41,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+68,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+70,"fever, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+36,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+35,"cough, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+34,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+42,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+64,"fever, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+23,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+64,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+44,"shortness of breath, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+60,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+26,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+55,"shortness of breath, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+22,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+54,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+65,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+70,"cough, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+76,"loss of taste or smell, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+76,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+67,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+83,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+57,"acid reflux, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+38,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+85,"fever, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+18,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+80,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+81,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+80,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+39,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+60,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+24,"chest tightness, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+65,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+45,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+40,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+79,"sweating, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+27,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+51,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+30,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+83,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+29,"headache, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+82,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+59,"cough, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+37,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+39,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+82,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+42,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+21,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+51,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+65,"sweating, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+28,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+67,"fever, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+74,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+57,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+52,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+36,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+62,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+45,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+41,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+68,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+83,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+28,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+41,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+35,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+42,"chills, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+58,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+70,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+74,"chest tightness, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+73,"sweating, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+41,"cough, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+81,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+24,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+41,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+77,"joint pain, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+74,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+34,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+44,"headache, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+80,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+81,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+31,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+61,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+65,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+38,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+46,"heartburn, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+68,"fatigue, loss of taste or smell",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+60,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+28,"shortness of breath, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+35,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+43,"joint pain, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+27,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+62,"loss of taste or smell, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+64,"high blood pressure, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+51,"acid reflux, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+54,"headache, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+84,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+74,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+65,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+83,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+62,"fever, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+71,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+23,"sweating, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+25,"chills, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+69,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+24,"headache, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+37,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+55,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+79,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+25,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+76,"cough, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+78,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+23,"pelvic pain, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+44,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+29,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+73,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+69,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+18,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+76,"fever, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+79,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+24,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+66,"headache, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+77,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+51,"loss of taste or smell, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+81,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+43,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+26,"frequent urination, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+52,"dizziness, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+76,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+80,"pelvic pain, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+30,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+33,"increased thirst, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+56,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+55,"sleep issues, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+79,"chills, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+20,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+25,"chest tightness, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+34,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+23,"heartburn, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+66,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+71,"frequent urination, burning urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+19,"chest discomfort, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+57,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+53,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+54,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+41,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+51,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+35,"joint pain, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+25,"fatigue, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+20,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+25,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+21,"frequent urination, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+26,"fever, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+49,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+74,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+74,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+51,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+43,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+42,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+45,"fever, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+55,"shortness of breath, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+26,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+20,"fever, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+19,"shortness of breath, wheezing",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+56,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+61,"sleep issues, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+39,"pale skin, fatigue",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+51,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+35,"sweating, fever",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+68,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+19,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+30,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+42,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+23,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+53,"loss of taste or smell, fatigue",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+62,"shortness of breath, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+30,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+56,"rash, high fever",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+80,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+50,"increased thirst, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+66,"wheezing, chest tightness",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+81,"fatigue, cough",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+26,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+76,"chest tightness, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+19,"persistent sadness, fatigue",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+78,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+48,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+29,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+26,"heartburn, chest discomfort",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+41,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+22,"high fever, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+46,"fever, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+19,"headache, dizziness",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+30,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+76,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+76,"heartburn, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+58,"fatigue, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+61,"frequent urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+77,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+58,"sleep issues, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+31,"joint pain, rash",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+65,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+67,"high blood pressure, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+74,"frequent urination, fatigue",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+20,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+48,"dizziness, high blood pressure",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+42,"chest discomfort, acid reflux",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+73,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+77,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+70,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+31,"fever, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+67,"headache, sweating",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+43,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+24,"sleep issues, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+27,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+76,"burning urination, pelvic pain",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+78,"pale skin, shortness of breath",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+47,"wheezing, shortness of breath",Asthma,High,Pulmonology,Carry an inhaler and avoid triggers.
+42,"rash, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+29,"high fever, joint pain",Dengue,High,General Medicine,Drink fluids and monitor platelet count.
+54,"loss of taste or smell, fever",COVID19,High,Infectious Diseases,Isolate and follow COVID protocol.
+43,"headache, chills",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+83,"dizziness, headache",Hypertension,Moderate,Cardiology,Regular check-ups and lifestyle changes are advised.
+44,"burning urination, frequent urination",Urinary Tract Infection,Low,Urology,Take antibiotics as prescribed.
+39,"fatigue, sleep issues",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+53,"fever, headache",Malaria,High,Infectious Diseases,Start antimalarial treatment promptly.
+63,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+36,"fatigue, persistent sadness",Depression,Moderate,Psychiatry,Consider therapy and medication under supervision.
+42,"fatigue, frequent urination",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+76,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.
+21,"acid reflux, heartburn",GERD,Low,Gastroenterology,Avoid spicy food and eat smaller meals.
+31,"fatigue, increased thirst",Diabetes,Moderate,Endocrinology,Maintain a diabetic diet and monitor blood sugar.
+46,"fatigue, pale skin",Anemia,Moderate,Hematology,Iron supplements and proper diet are recommended.

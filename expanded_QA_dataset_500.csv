@@ -1,0 +1,501 @@
+Question,Intent,Answer
+When should I return for follow-up?,follow_up,"Usually within 2 weeks, or as advised by your doctor."
+Do I need another scan after my treatment?,follow_up,Follow-up imaging may be required  toassess progress.
+How often should I get my thyroid levels checked?,follow_up,"Typically every 6 to12 months, or more if needed."
+When can I remove stitches after surgery?,follow_up,Usually 7 to14 days after surgery depending on the area.
+Should I come back after finishing my antibiotics?,follow_up,"Yes,  toensure the infection has cleared."
+Do I need follow-up after a COVID-19 infection?,follow_up,"Yes, especially after severe symptoms."
+How frequently should I monitor my blood pressure?,follow_up,Daily if uncontrolled; follow doctor's advice.
+Should I get re-tested after a positive diagnosis?,follow_up,"Yes,  toconfirm recovery or check response."
+Will I need physiotherapy after surgery?,follow_up,"Often yes, especially for orthopedic surgeries."
+Do children require follow-ups after vaccination?,follow_up,"Yes,  toensure no side effects and track schedule."
+What does an MRI scan show?,test_inquiry,"It shows detailed images of soft tissues, brain, and spine."
+Is ultrasound safe during pregnancy?,test_inquiry,"Yes, it's routinely used and completely safe."
+Why do I need a CT scan?,test_inquiry,It provides detailed cross-sectional images of your body.
+How is a blood sugar test done?,test_inquiry,A small blood sample is tested for glucose.
+What does a lipid profile test show?,test_inquiry,It measures cholesterol and triglyceride levels.
+Do I need  tofast for an ultrasound?,test_inquiry,"Yes, in some cases like abdominal scans."
+What is a biopsy?,test_inquiry,A tissue sample taken for diagnostic analysis.
+Why do I need a urine test?,test_inquiry," tocheck for infection, kidney health, or glucose."
+Can I eat before an ECG?,test_inquiry,"Yes, ECG doesnot require fasting."
+How long does it take  toget lab test results?,test_inquiry,Usually 24 to48 hours depending on the test.
+What should I do if someone faints?,emergency,"Lay them down, raise legs, and seek help if needed."
+"I accidentally took double my dose, what now?",emergency,Seek medical attention or call poison control.
+What are signs of a heart attack?,emergency,"Chest pain, sweating, nausea, and shortness of breath."
+What  todo if a child has a high fever?,emergency,Use fever medicine and seek medical care.
+Is a sudden severe headache an emergency?,emergency,"Yes, it could indicate something serious."
+What  todo in case of a seizure?,emergency,"Keep person safe, donot restrain, call emergency."
+Can allergies cause emergencies?,emergency,"Yes, anaphylaxis requires immediate EpiPen use."
+"I cut myself badly, should I go  tothe ER?",emergency,"Yes, especially if itos deep or wonot stop bleeding."
+"My child swallowed a battery, what should I do?",emergency,Go  tothe emergency room immediately.
+Is severe vomiting an emergency?,emergency,"Yes, if itos persistent or with signs of dehydration."
+How often should adults get a health checkup?,general_health,"Annually, or more often with chronic issues."
+What vaccines do adults need?,general_health,"Flu, tetanus, shingles, COVID-19 depending on age."
+How can I boost my immune system?,general_health,"Eat well, rest, reduce stress, and stay active."
+Is it okay  totake multivitamins daily?,general_health,"Yes, if recommended for nutritional gaps."
+Should I be concerned about high BMI?,general_health,"Yes, it can indicate higher health risks."
+How do I prevent seasonal flu?,general_health,Get vaccinated and practice hygiene.
+When should I start cancer screenings?,general_health,"Usually from age 40 to50, earlier if at risk."
+What is the normal blood pressure range?,general_health,Around 120/80 mmHg.
+Are regular dental check-ups necessary?,general_health,"Yes, ideally every 6 months."
+Is being underweight a health concern?,general_health,"Yes, it may indicate poor nutrition or illness."
+Can I take ibuprofen with paracetamol?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What are the side effects of antibiotics?,medication_inquiry,"Common side effects include nausea, diarrhea, and rash."
+How should I store my insulin?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+Can I drink alcohol while taking antibiotics?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What should I do if I miss a dose?,medication_inquiry,Take it as soon as you remember unless it's almost time for the next dose.
+Is it safe  totake paracetamol during pregnancy?,pregnancy,"Yes, paracetamol is generally safe under medical advice."
+What should I avoid eating during pregnancy?,pregnancy,"Avoid raw fish, unpasteurized cheese, and high mercury fish."
+How much weight should I gain during pregnancy?,pregnancy,Typically 11 to16 kg for a normal BMI.
+Can I exercise while pregnant?,pregnancy,"Yes, moderate exercise like walking is recommended."
+What are the signs of labor?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+When should a baby get their first vaccine?,child_health,"At birth, usually BCG and Hepatitis B."
+Is fever after vaccination normal in babies?,child_health,"Yes, mild fever is common."
+What is the normal weight for a newborn?,child_health,Between 2.5 kg and 4 kg.
+How often should I feed my newborn?,child_health,Every 2 to3 hours.
+Can teething cause fever?,child_health,Mild temperature rise can occur but not high fever.
+How much sleep do adults need?,lifestyle,7 to9 hours per night is ideal.
+Is walking enough for daily exercise?,lifestyle,"Yes, 30 minutes of brisk walking is beneficial."
+How much water should I drink daily?,lifestyle,Around 2 to3 liters depending on body and climate.
+Are energy drinks safe?,lifestyle,"In moderation, but frequent use can cause health problems."
+How  tomanage work stress?,lifestyle,"Try meditation, breaks, time management, and counseling."
+Is intermittent fasting safe?,diet_nutrition,It can be safe if done correctly; consult a doctor.
+How much protein do I need daily?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+What foods help lower cholesterol?,diet_nutrition,"Oats, nuts, fruits, and vegetables."
+Can I have dairy if I'm lactose intolerant?,diet_nutrition,"Yes, lactose-free or plant-based alternatives work."
+Is a vegan diet healthy?,diet_nutrition,"Yes, if well-balanced with all nutrients covered."
+What causes acne?,dermatology,"Hormonal changes, stress, and oily skin can contribute  toacne."
+Is dandruff a sign of poor hygiene?,dermatology,"No, it is usually caused by a dry scalp or yeast."
+How do I treat eczema?,dermatology,Use moisturizers and topical steroids; avoid irritants.
+Are moles dangerous?,dermatology,"Most are harmless, but changes in shape or color should be checked."
+What helps with dry skin?,dermatology,Moisturize frequently and avoid hot showers.
+What are symptoms of depression?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+How do I manage anxiety?,mental_health,"Practice deep breathing, exercise, or therapy."
+Is therapy helpful for stress?,mental_health,"Yes, therapy provides strategies  tomanage stress."
+Can I take antidepressants long-term?,mental_health,"Yes, under medical supervision."
+How  toimprove sleep for mental health?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+Is irregular menstruation normal?,womens_health,"Occasionally yes, but chronic irregularity needs evaluation."
+What is PCOS?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+Can birth control help with acne?,womens_health,"Yes, some contraceptives can reduce acne."
+What are menopause symptoms?,womens_health,"Hot flashes, mood swings, and irregular periods."
+How often should I get a Pap smear?,womens_health,Every 3 years starting at age 21.
+What is a normal testosterone level?,mens_health,Typically 300 to1000 ng/dL.
+When should men screen for prostate cancer?,mens_health,Usually after age 50 or earlier if at risk.
+Is hair loss in men genetic?,mens_health,"Yes, male pattern baldness is hereditary."
+How  toimprove male fertility?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What are symptoms of low testosterone?,mens_health,"Fatigue, low libido, and mood changes."
+What vaccines do children need?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+Are flu shots necessary every year?,immunization,"Yes,  toprotect against seasonal flu variants."
+Can vaccines cause autism?,immunization,"No, this claim has been thoroughly debunked."
+What are side effects of COVID-19 vaccines?,immunization,"Fever, fatigue, and sore arm are common."
+Are travel vaccines important?,immunization,"Yes,  toprotect against region-specific diseases."
+What are symptoms of high blood pressure?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+How can I reduce my cholesterol naturally?,cardiology,"Eat healthy fats, exercise, and avoid trans fats."
+Is chest pain always related  tothe heart?,cardiology,"No, it can also be caused by muscle strain or acid reflux."
+What is a normal heart rate?,cardiology,Between 60 and 100 beats per minute at rest.
+Can stress cause heart problems?,cardiology,"Yes, chronic stress increases the risk of heart disease."
+What causes acid reflux?,gastroenterology,Weak esophageal muscles or trigger foods like spicy and fatty items.
+How  torelieve constipation?,gastroenterology,"Increase fiber, hydrate, and stay active."
+Is blood in stool a serious issue?,gastroenterology,"Yes, it could indicate hemorrhoids or something more serious."
+What is IBS?,gastroenterology,"Irritable Bowel Syndrome, a disorder affecting bowel habits."
+Can stress affect digestion?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+How do I treat a sore throat?,ent,"Gargle warm salt water, drink fluids, or take prescribed medications."
+What causes ringing in the ears?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+Is earwax harmful?,ent,"No, it protects the ear, but excess buildup may need removal."
+Why do I get frequent nosebleeds?,ent,"Dry air, allergies, or high blood pressure may cause them."
+Can sinus infections cause headaches?,ent,"Yes, sinus pressure often leads  tofacial pain or headaches."
+What should I do for a sprained ankle?,orthopedics,"Rest, ice, compression, and elevation (RICE method)."
+How do I know if I have arthritis?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+Can I exercise with back pain?,orthopedics,"Yes, but stick  tolow-impact and doctor-approved routines."
+How long does a bone fracture take  toheal?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What are the signs of a herniated disc?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by what are side effects of covid-19 vaccines?,lifestyle,Around 2 to3 liters depending on body and climate.
+What do you mean by how much weight should i gain during pregnancy?,womens_health,"Occasionally yes, but chronic irregularity needs evaluation."
+What do you mean by what are the side effects of antibiotics?,orthopedics,"Yes, but stick  tolow-impact and doctor-approved routines."
+What do you mean by what vaccines do adults need?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by will i need physiotherapy after surgery?,womens_health,"Hot flashes, mood swings, and irregular periods."
+What do you mean by can i take ibuprofen with paracetamol?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by what  todo if a child has a high fever?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by how much protein do i need daily?,mental_health,"Yes, under medical supervision."
+What do you mean by what causes acne?,immunization,"No, this claim has been thoroughly debunked."
+What do you mean by what are signs of a heart attack?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+What do you mean by when should i start cancer screenings?,cardiology,"Yes, chronic stress increases the risk of heart disease."
+What do you mean by what does a lipid profile test show?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by when should men screen for prostate cancer?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+"What do you mean by my child swallowed a battery, what should i do?",cardiology,Between 60 and 100 beats per minute at rest.
+What do you mean by is ultrasound safe during pregnancy?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by what should i do if i miss a dose?,lifestyle,Around 2 to3 liters depending on body and climate.
+What do you mean by when should i return for follow-up?,emergency,"Yes, if itos persistent or with signs of dehydration."
+What do you mean by how do i treat a sore throat?,emergency,"Lay them down, raise legs, and seek help if needed."
+What do you mean by what causes acne?,mens_health,"Yes, male pattern baldness is hereditary."
+What do you mean by how can i reduce my cholesterol naturally?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by are moles dangerous?,mens_health,Typically 300 to1000 ng/dL.
+What do you mean by how long does it take  toget lab test results?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by what are menopause symptoms?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+What do you mean by what is a normal testosterone level?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by what does a lipid profile test show?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by what are symptoms of low testosterone?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by how much weight should i gain during pregnancy?,womens_health,"Yes, some contraceptives can reduce acne."
+What do you mean by how do i treat eczema?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What do you mean by are energy drinks safe?,orthopedics,"Rest, ice, compression, and elevation (RICE method)."
+What do you mean by what does an mri scan show?,dermatology,"No, it is usually caused by a dry scalp or yeast."
+What do you mean by what is a biopsy?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by is earwax harmful?,mental_health,"Yes, therapy provides strategies  tomanage stress."
+What do you mean by are energy drinks safe?,gastroenterology,"Yes, it could indicate hemorrhoids or something more serious."
+What do you mean by can i take ibuprofen with paracetamol?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by is being underweight a health concern?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by how  toimprove sleep for mental health?,orthopedics,"Rest, ice, compression, and elevation (RICE method)."
+What do you mean by do i need another scan after my treatment?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by what should i do if i miss a dose?,emergency,"Yes, especially if itos deep or wonot stop bleeding."
+What do you mean by are moles dangerous?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by can vaccines cause autism?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by how can i reduce my cholesterol naturally?,medication_inquiry,Take it as soon as you remember unless it's almost time for the next dose.
+What do you mean by how much weight should i gain during pregnancy?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by can stress cause heart problems?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by can i exercise with back pain?,emergency,"Yes, it could indicate something serious."
+What do you mean by can i take antidepressants long-term?,diet_nutrition,"Yes, lactose-free or plant-based alternatives work."
+What do you mean by how do i manage anxiety?,mental_health,"Yes, under medical supervision."
+What do you mean by how can i boost my immune system?,diet_nutrition,"Oats, nuts, fruits, and vegetables."
+What do you mean by what vaccines do adults need?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by how  tomanage work stress?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by why do i get frequent nosebleeds?,mental_health,"Yes, under medical supervision."
+What do you mean by how  toimprove male fertility?,test_inquiry,"It shows detailed images of soft tissues, brain, and spine."
+What do you mean by when can i remove stitches after surgery?,pregnancy,Typically 11 to16 kg for a normal BMI.
+What do you mean by can i take ibuprofen with paracetamol?,diet_nutrition,"Yes, if well-balanced with all nutrients covered."
+"What do you mean by i accidentally took double my dose, what now?",immunization,"Yes,  toprotect against seasonal flu variants."
+What do you mean by will i need physiotherapy after surgery?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by when should i return for follow-up?,cardiology,"Eat healthy fats, exercise, and avoid trans fats."
+What do you mean by are flu shots necessary every year?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by is chest pain always related  tothe heart?,general_health,"Yes, it can indicate higher health risks."
+What do you mean by should i come back after finishing my antibiotics?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by how can i boost my immune system?,test_inquiry,"It shows detailed images of soft tissues, brain, and spine."
+What do you mean by can i exercise while pregnant?,dermatology,Moisturize frequently and avoid hot showers.
+What do you mean by will i need physiotherapy after surgery?,follow_up,Daily if uncontrolled; follow doctor's advice.
+What do you mean by how frequently should i monitor my blood pressure?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by how is a blood sugar test done?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by is it okay  totake multivitamins daily?,test_inquiry,It measures cholesterol and triglyceride levels.
+What do you mean by how do i treat a sore throat?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+What do you mean by is hair loss in men genetic?,general_health,Around 120/80 mmHg.
+What do you mean by will i need physiotherapy after surgery?,ent,"No, it protects the ear, but excess buildup may need removal."
+What do you mean by can i drink alcohol while taking antibiotics?,pregnancy,"Yes, moderate exercise like walking is recommended."
+What do you mean by is intermittent fasting safe?,child_health,Mild temperature rise can occur but not high fever.
+What do you mean by is a vegan diet healthy?,emergency,Go  tothe emergency room immediately.
+What do you mean by can allergies cause emergencies?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by what should i do if i miss a dose?,child_health,"At birth, usually BCG and Hepatitis B."
+What do you mean by how is a blood sugar test done?,child_health,Every 2 to3 hours.
+What do you mean by what are symptoms of low testosterone?,dermatology,Moisturize frequently and avoid hot showers.
+What do you mean by are energy drinks safe?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by what are symptoms of depression?,emergency,"Yes, anaphylaxis requires immediate EpiPen use."
+What do you mean by can i eat before an ecg?,pregnancy,"Yes, moderate exercise like walking is recommended."
+What do you mean by how much protein do i need daily?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by what are menopause symptoms?,cardiology,"Eat healthy fats, exercise, and avoid trans fats."
+What do you mean by is a vegan diet healthy?,emergency,Go  tothe emergency room immediately.
+What do you mean by how  toimprove sleep for mental health?,lifestyle,"Try meditation, breaks, time management, and counseling."
+What do you mean by do i need  tofast for an ultrasound?,mental_health,"Yes, under medical supervision."
+What do you mean by can i have dairy if i'm lactose intolerant?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+What do you mean by what is a normal heart rate?,gastroenterology,"Irritable Bowel Syndrome, a disorder affecting bowel habits."
+What do you mean by can i drink alcohol while taking antibiotics?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by are travel vaccines important?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by can teething cause fever?,test_inquiry,"Yes, it's routinely used and completely safe."
+What do you mean by why do i need a urine test?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by can i have dairy if i'm lactose intolerant?,emergency,"Yes, especially if itos deep or wonot stop bleeding."
+What do you mean by how do i manage anxiety?,test_inquiry,It measures cholesterol and triglyceride levels.
+What do you mean by when should a baby get their first vaccine?,dermatology,Moisturize frequently and avoid hot showers.
+What do you mean by why do i need a ct scan?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by should i come back after finishing my antibiotics?,follow_up,"Typically every 6 to12 months, or more if needed."
+What do you mean by how much protein do i need daily?,ent,"Gargle warm salt water, drink fluids, or take prescribed medications."
+What do you mean by what does a lipid profile test show?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by is intermittent fasting safe?,general_health,"Yes, if recommended for nutritional gaps."
+What do you mean by what does a lipid profile test show?,ent,"Gargle warm salt water, drink fluids, or take prescribed medications."
+What do you mean by can stress cause heart problems?,cardiology,"Eat healthy fats, exercise, and avoid trans fats."
+What do you mean by what are menopause symptoms?,gastroenterology,Weak esophageal muscles or trigger foods like spicy and fatty items.
+What do you mean by what is pcos?,lifestyle,"Yes, 30 minutes of brisk walking is beneficial."
+What do you mean by how much sleep do adults need?,dermatology,"No, it is usually caused by a dry scalp or yeast."
+What do you mean by what are side effects of covid-19 vaccines?,general_health,"Eat well, rest, reduce stress, and stay active."
+What do you mean by can i take ibuprofen with paracetamol?,dermatology,Use moisturizers and topical steroids; avoid irritants.
+What do you mean by how  toimprove male fertility?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+What do you mean by are flu shots necessary every year?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+What do you mean by how can i boost my immune system?,follow_up,Usually 7 to14 days after surgery depending on the area.
+What do you mean by is a vegan diet healthy?,child_health,Every 2 to3 hours.
+What do you mean by how long does a bone fracture take  toheal?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+What do you mean by are moles dangerous?,test_inquiry,Usually 24 to48 hours depending on the test.
+What do you mean by how often should i get my thyroid levels checked?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by how long does a bone fracture take  toheal?,test_inquiry,"Yes, it's routinely used and completely safe."
+What do you mean by how do i manage anxiety?,follow_up,"Yes,  toensure no side effects and track schedule."
+What do you mean by is intermittent fasting safe?,pregnancy,"Yes, moderate exercise like walking is recommended."
+What do you mean by what are side effects of covid-19 vaccines?,cardiology,Between 60 and 100 beats per minute at rest.
+What do you mean by is earwax harmful?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by how much weight should i gain during pregnancy?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by what are symptoms of high blood pressure?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by what are the signs of labor?,lifestyle,7 to9 hours per night is ideal.
+What do you mean by how do i treat eczema?,diet_nutrition,"Yes, if well-balanced with all nutrients covered."
+What do you mean by when should i return for follow-up?,lifestyle,"Yes, 30 minutes of brisk walking is beneficial."
+What do you mean by what causes acne?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by are travel vaccines important?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by how much weight should i gain during pregnancy?,cardiology,"No, it can also be caused by muscle strain or acid reflux."
+What do you mean by what are menopause symptoms?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by what foods help lower cholesterol?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by do i need follow-up after a covid-19 infection?,mental_health,"Yes, under medical supervision."
+What do you mean by how can i reduce my cholesterol naturally?,general_health,"Yes, it can indicate higher health risks."
+What do you mean by what should i do if someone faints?,womens_health,"Hot flashes, mood swings, and irregular periods."
+What do you mean by can i take ibuprofen with paracetamol?,dermatology,"Hormonal changes, stress, and oily skin can contribute  toacne."
+What do you mean by what does a lipid profile test show?,womens_health,"Yes, some contraceptives can reduce acne."
+What do you mean by do i need  tofast for an ultrasound?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by what is ibs?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by what are the side effects of antibiotics?,follow_up,"Yes,  toconfirm recovery or check response."
+"What do you mean by i accidentally took double my dose, what now?",orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by do i need another scan after my treatment?,mens_health,Typically 300 to1000 ng/dL.
+What do you mean by should i get re-tested after a positive diagnosis?,test_inquiry,"Yes, in some cases like abdominal scans."
+What do you mean by can stress affect digestion?,dermatology,Moisturize frequently and avoid hot showers.
+What do you mean by should i come back after finishing my antibiotics?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+"What do you mean by i cut myself badly, should i go  tothe er?",orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by what  todo in case of a seizure?,diet_nutrition,It can be safe if done correctly; consult a doctor.
+What do you mean by can i exercise while pregnant?,ent,"Dry air, allergies, or high blood pressure may cause them."
+What do you mean by what are side effects of covid-19 vaccines?,gastroenterology,"Increase fiber, hydrate, and stay active."
+What do you mean by what foods help lower cholesterol?,pregnancy,Typically 11 to16 kg for a normal BMI.
+What do you mean by are flu shots necessary every year?,mental_health,"Yes, under medical supervision."
+What do you mean by how  torelieve constipation?,lifestyle,Around 2 to3 liters depending on body and climate.
+What do you mean by how often should i feed my newborn?,medication_inquiry,Take it as soon as you remember unless it's almost time for the next dose.
+What do you mean by is being underweight a health concern?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+What do you mean by how long does it take  toget lab test results?,dermatology,"Most are harmless, but changes in shape or color should be checked."
+What do you mean by what is pcos?,diet_nutrition,It can be safe if done correctly; consult a doctor.
+What do you mean by why do i need a ct scan?,emergency,"Yes, anaphylaxis requires immediate EpiPen use."
+What do you mean by why do i need a ct scan?,child_health,"At birth, usually BCG and Hepatitis B."
+What do you mean by can i have dairy if i'm lactose intolerant?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by is walking enough for daily exercise?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by what does an mri scan show?,diet_nutrition,"Yes, lactose-free or plant-based alternatives work."
+"What do you mean by i cut myself badly, should i go  tothe er?",gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by how is a blood sugar test done?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What do you mean by is hair loss in men genetic?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by when should a baby get their first vaccine?,test_inquiry,It provides detailed cross-sectional images of your body.
+What do you mean by what are symptoms of high blood pressure?,immunization,"No, this claim has been thoroughly debunked."
+What do you mean by can i have dairy if i'm lactose intolerant?,diet_nutrition,"Yes, if well-balanced with all nutrients covered."
+What do you mean by how do i treat eczema?,general_health,"Annually, or more often with chronic issues."
+What do you mean by when can i remove stitches after surgery?,follow_up,Daily if uncontrolled; follow doctor's advice.
+What do you mean by is ultrasound safe during pregnancy?,general_health,"Yes, if recommended for nutritional gaps."
+What do you mean by what is pcos?,emergency,"Keep person safe, donot restrain, call emergency."
+What do you mean by do children require follow-ups after vaccination?,womens_health,"Occasionally yes, but chronic irregularity needs evaluation."
+What do you mean by is ultrasound safe during pregnancy?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by what is pcos?,orthopedics,"Yes, but stick  tolow-impact and doctor-approved routines."
+What do you mean by what is a biopsy?,emergency,Seek medical attention or call poison control.
+What do you mean by are moles dangerous?,general_health,"Yes, it may indicate poor nutrition or illness."
+What do you mean by what are the signs of a herniated disc?,dermatology,"Hormonal changes, stress, and oily skin can contribute  toacne."
+What do you mean by is it okay  totake multivitamins daily?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by should i get re-tested after a positive diagnosis?,test_inquiry,"Yes, it's routinely used and completely safe."
+What do you mean by how do i manage anxiety?,test_inquiry,It provides detailed cross-sectional images of your body.
+What do you mean by why do i need a urine test?,test_inquiry,It measures cholesterol and triglyceride levels.
+What do you mean by can teething cause fever?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by how do i treat a sore throat?,general_health,"Yes, it may indicate poor nutrition or illness."
+What do you mean by when should i return for follow-up?,mens_health,Usually after age 50 or earlier if at risk.
+What do you mean by is it okay  totake multivitamins daily?,emergency,"Chest pain, sweating, nausea, and shortness of breath."
+What do you mean by why do i get frequent nosebleeds?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by how do i manage anxiety?,general_health,"Flu, tetanus, shingles, COVID-19 depending on age."
+What do you mean by what are symptoms of high blood pressure?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by is irregular menstruation normal?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by are regular dental check-ups necessary?,test_inquiry,It measures cholesterol and triglyceride levels.
+What do you mean by why do i need a urine test?,general_health,Around 120/80 mmHg.
+What do you mean by how do i know if i have arthritis?,womens_health,"Hot flashes, mood swings, and irregular periods."
+What do you mean by what is ibs?,mens_health,"Yes, male pattern baldness is hereditary."
+What do you mean by how much sleep do adults need?,lifestyle,Around 2 to3 liters depending on body and climate.
+What do you mean by is ultrasound safe during pregnancy?,gastroenterology,"Increase fiber, hydrate, and stay active."
+What do you mean by can i have dairy if i'm lactose intolerant?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by is fever after vaccination normal in babies?,mens_health,"Yes, male pattern baldness is hereditary."
+What do you mean by should i be concerned about high bmi?,follow_up,"Yes,  toconfirm recovery or check response."
+What do you mean by when should men screen for prostate cancer?,lifestyle,7 to9 hours per night is ideal.
+What do you mean by when should i start cancer screenings?,pregnancy,"Yes, moderate exercise like walking is recommended."
+What do you mean by is it okay  totake multivitamins daily?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by what should i do for a sprained ankle?,lifestyle,"Try meditation, breaks, time management, and counseling."
+What do you mean by why do i need a ct scan?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by how  tomanage work stress?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+"What do you mean by i cut myself badly, should i go  tothe er?",ent,"No, it protects the ear, but excess buildup may need removal."
+What do you mean by are regular dental check-ups necessary?,dermatology,Moisturize frequently and avoid hot showers.
+What do you mean by is ultrasound safe during pregnancy?,general_health,"Usually from age 40 to50, earlier if at risk."
+What do you mean by what are the signs of a herniated disc?,lifestyle,"In moderation, but frequent use can cause health problems."
+What do you mean by what is ibs?,dermatology,"Hormonal changes, stress, and oily skin can contribute  toacne."
+What do you mean by is walking enough for daily exercise?,follow_up,"Yes,  toensure no side effects and track schedule."
+What do you mean by how often should adults get a health checkup?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by can i exercise with back pain?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by can i have dairy if i'm lactose intolerant?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by what causes acid reflux?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by what foods help lower cholesterol?,child_health,Every 2 to3 hours.
+What do you mean by is it okay  totake multivitamins daily?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by can i take ibuprofen with paracetamol?,lifestyle,"In moderation, but frequent use can cause health problems."
+What do you mean by what is pcos?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by can i exercise with back pain?,diet_nutrition,"Yes, lactose-free or plant-based alternatives work."
+What do you mean by how do i prevent seasonal flu?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by how often should adults get a health checkup?,pregnancy,Typically 11 to16 kg for a normal BMI.
+What do you mean by can i exercise with back pain?,general_health,"Yes, it can indicate higher health risks."
+What do you mean by can i drink alcohol while taking antibiotics?,lifestyle,7 to9 hours per night is ideal.
+What do you mean by what vaccines do adults need?,pregnancy,"Yes, paracetamol is generally safe under medical advice."
+What do you mean by why do i get frequent nosebleeds?,follow_up,Usually 7 to14 days after surgery depending on the area.
+What do you mean by when should a baby get their first vaccine?,general_health,"Yes, it may indicate poor nutrition or illness."
+What do you mean by how often should i feed my newborn?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by is it okay  totake multivitamins daily?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by how do i treat a sore throat?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by how do i know if i have arthritis?,orthopedics,"Rest, ice, compression, and elevation (RICE method)."
+What do you mean by what is a biopsy?,lifestyle,7 to9 hours per night is ideal.
+What do you mean by is earwax harmful?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by is dandruff a sign of poor hygiene?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by how  toimprove male fertility?,emergency,Seek medical attention or call poison control.
+What do you mean by what is a normal testosterone level?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by how can i boost my immune system?,cardiology,"No, it can also be caused by muscle strain or acid reflux."
+What do you mean by can i have dairy if i'm lactose intolerant?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by what is ibs?,general_health,"Annually, or more often with chronic issues."
+What do you mean by do i need  tofast for an ultrasound?,dermatology,"No, it is usually caused by a dry scalp or yeast."
+What do you mean by what causes acid reflux?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by can teething cause fever?,womens_health,"Yes, some contraceptives can reduce acne."
+What do you mean by what causes acid reflux?,emergency,"Yes, if itos persistent or with signs of dehydration."
+What do you mean by what are symptoms of high blood pressure?,mens_health,Usually after age 50 or earlier if at risk.
+What do you mean by how much water should i drink daily?,general_health,Get vaccinated and practice hygiene.
+What do you mean by do i need follow-up after a covid-19 infection?,diet_nutrition,It can be safe if done correctly; consult a doctor.
+What do you mean by what are the signs of labor?,general_health,"Yes, it may indicate poor nutrition or illness."
+What do you mean by what are symptoms of high blood pressure?,general_health,"Yes, it can indicate higher health risks."
+What do you mean by how should i store my insulin?,cardiology,Between 60 and 100 beats per minute at rest.
+What do you mean by do i need  tofast for an ultrasound?,ent,"Gargle warm salt water, drink fluids, or take prescribed medications."
+What do you mean by how often should adults get a health checkup?,child_health,"Yes, mild fever is common."
+What do you mean by what are signs of a heart attack?,gastroenterology,"Yes, it can slow or disrupt normal digestive processes."
+What do you mean by what helps with dry skin?,diet_nutrition,"Oats, nuts, fruits, and vegetables."
+What do you mean by are travel vaccines important?,mens_health,Typically 300 to1000 ng/dL.
+What do you mean by can allergies cause emergencies?,lifestyle,"In moderation, but frequent use can cause health problems."
+What do you mean by what does a lipid profile test show?,diet_nutrition,"Yes, if well-balanced with all nutrients covered."
+What do you mean by is hair loss in men genetic?,general_health,Around 120/80 mmHg.
+What do you mean by can i drink alcohol while taking antibiotics?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+What do you mean by can i take antidepressants long-term?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+What do you mean by what are symptoms of low testosterone?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by how long does it take  toget lab test results?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by what helps with dry skin?,cardiology,"Yes, chronic stress increases the risk of heart disease."
+What do you mean by what should i do if someone faints?,emergency,Use fever medicine and seek medical care.
+What do you mean by what does an mri scan show?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+What do you mean by how often should i get a pap smear?,child_health,"Yes, mild fever is common."
+What do you mean by can allergies cause emergencies?,general_health,"Yes, if recommended for nutritional gaps."
+What do you mean by what does a lipid profile test show?,lifestyle,"Try meditation, breaks, time management, and counseling."
+What do you mean by are regular dental check-ups necessary?,immunization,"No, this claim has been thoroughly debunked."
+What do you mean by what are symptoms of high blood pressure?,general_health,"Annually, or more often with chronic issues."
+What do you mean by how can i reduce my cholesterol naturally?,immunization,"DPT, polio, MMR, Hepatitis B, and others."
+What do you mean by should i come back after finishing my antibiotics?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by should i come back after finishing my antibiotics?,test_inquiry,Usually 24 to48 hours depending on the test.
+What do you mean by what are symptoms of depression?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by what is the normal weight for a newborn?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by what are the signs of a herniated disc?,general_health,"Usually from age 40 to50, earlier if at risk."
+What do you mean by what causes acne?,test_inquiry,"Yes, in some cases like abdominal scans."
+What do you mean by can sinus infections cause headaches?,general_health,"Yes, it may indicate poor nutrition or illness."
+What do you mean by is ultrasound safe during pregnancy?,pregnancy,"Avoid raw fish, unpasteurized cheese, and high mercury fish."
+What do you mean by what are symptoms of low testosterone?,immunization,"No, this claim has been thoroughly debunked."
+What do you mean by what is the normal weight for a newborn?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+What do you mean by do i need  tofast for an ultrasound?,womens_health,Every 3 years starting at age 21.
+"What do you mean by i cut myself badly, should i go  tothe er?",lifestyle,"Yes, 30 minutes of brisk walking is beneficial."
+What do you mean by how much water should i drink daily?,ent,"No, it protects the ear, but excess buildup may need removal."
+What do you mean by what  todo if a child has a high fever?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by can sinus infections cause headaches?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by how often should i feed my newborn?,gastroenterology,Weak esophageal muscles or trigger foods like spicy and fatty items.
+What do you mean by can i exercise with back pain?,mental_health,"Practice deep breathing, exercise, or therapy."
+"What do you mean by i accidentally took double my dose, what now?",medication_inquiry,"Common side effects include nausea, diarrhea, and rash."
+What do you mean by what is ibs?,emergency,"Lay them down, raise legs, and seek help if needed."
+What do you mean by how can i reduce my cholesterol naturally?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+What do you mean by when should i return for follow-up?,general_health,Around 120/80 mmHg.
+What do you mean by why do i get frequent nosebleeds?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by how should i store my insulin?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by is hair loss in men genetic?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by what is the normal blood pressure range?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by is earwax harmful?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by what are the signs of labor?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by how  toimprove sleep for mental health?,womens_health,Every 3 years starting at age 21.
+What do you mean by can i drink alcohol while taking antibiotics?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by what should i do if i miss a dose?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by what are menopause symptoms?,follow_up,"Yes,  toconfirm recovery or check response."
+What do you mean by what  todo if a child has a high fever?,womens_health,Every 3 years starting at age 21.
+What do you mean by what causes ringing in the ears?,gastroenterology,Weak esophageal muscles or trigger foods like spicy and fatty items.
+What do you mean by how often should adults get a health checkup?,test_inquiry,It provides detailed cross-sectional images of your body.
+What do you mean by what is the normal weight for a newborn?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by what are the side effects of antibiotics?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by how do i treat a sore throat?,gastroenterology,"Yes, it could indicate hemorrhoids or something more serious."
+What do you mean by what are symptoms of high blood pressure?,follow_up,"Typically every 6 to12 months, or more if needed."
+What do you mean by how long does a bone fracture take  toheal?,test_inquiry," tocheck for infection, kidney health, or glucose."
+What do you mean by when can i remove stitches after surgery?,ent,"Gargle warm salt water, drink fluids, or take prescribed medications."
+What do you mean by what vaccines do adults need?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+What do you mean by is ultrasound safe during pregnancy?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by will i need physiotherapy after surgery?,general_health,"Yes, it can indicate higher health risks."
+What do you mean by how do i treat a sore throat?,immunization,"Yes,  toprotect against region-specific diseases."
+What do you mean by why do i need a ct scan?,child_health,"At birth, usually BCG and Hepatitis B."
+What do you mean by what vaccines do children need?,pregnancy,"Yes, paracetamol is generally safe under medical advice."
+What do you mean by how do i manage anxiety?,general_health,Get vaccinated and practice hygiene.
+What do you mean by what are symptoms of depression?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by how do i prevent seasonal flu?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by how do i know if i have arthritis?,mental_health,"Practice deep breathing, exercise, or therapy."
+What do you mean by how much protein do i need daily?,pregnancy,"Avoid raw fish, unpasteurized cheese, and high mercury fish."
+What do you mean by how much protein do i need daily?,test_inquiry,"Yes, ECG doesnot require fasting."
+What do you mean by what are symptoms of depression?,test_inquiry,"It shows detailed images of soft tissues, brain, and spine."
+What do you mean by are moles dangerous?,orthopedics,"Yes, but stick  tolow-impact and doctor-approved routines."
+What do you mean by how much sleep do adults need?,child_health,"At birth, usually BCG and Hepatitis B."
+What do you mean by will i need physiotherapy after surgery?,emergency,"Lay them down, raise legs, and seek help if needed."
+What do you mean by can vaccines cause autism?,orthopedics,"Back pain, numbness, or weakness in limbs."
+What do you mean by can i eat before an ecg?,gastroenterology,"Irritable Bowel Syndrome, a disorder affecting bowel habits."
+What do you mean by should i come back after finishing my antibiotics?,test_inquiry,It measures cholesterol and triglyceride levels.
+What do you mean by can i have dairy if i'm lactose intolerant?,immunization,"No, this claim has been thoroughly debunked."
+What do you mean by what does an mri scan show?,emergency,Seek medical attention or call poison control.
+What do you mean by what is a normal testosterone level?,orthopedics,"Typically 6  to8 weeks, depending on the location and severity."
+What do you mean by can i have dairy if i'm lactose intolerant?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by what is the normal blood pressure range?,diet_nutrition,About 0.8g per kg of body weight for average adults.
+What do you mean by can vaccines cause autism?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What do you mean by is blood in stool a serious issue?,emergency,Use fever medicine and seek medical care.
+What do you mean by what  todo if a child has a high fever?,mens_health,Typically 300 to1000 ng/dL.
+What do you mean by how much water should i drink daily?,ent,"Dry air, allergies, or high blood pressure may cause them."
+What do you mean by will i need physiotherapy after surgery?,mental_health,"Maintain a routine, limit screens, and avoid caffeine."
+What do you mean by can i take ibuprofen with paracetamol?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What do you mean by when should i return for follow-up?,cardiology,"No, it can also be caused by muscle strain or acid reflux."
+What do you mean by how much protein do i need daily?,pregnancy,"Avoid raw fish, unpasteurized cheese, and high mercury fish."
+What do you mean by how often should adults get a health checkup?,child_health,Mild temperature rise can occur but not high fever.
+What do you mean by what are the signs of a herniated disc?,mental_health,"Yes, under medical supervision."
+What do you mean by how much protein do i need daily?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
+What do you mean by can i exercise with back pain?,gastroenterology,"Irritable Bowel Syndrome, a disorder affecting bowel habits."
+What do you mean by how often should i feed my newborn?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by is it safe  totake paracetamol during pregnancy?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by can i take ibuprofen with paracetamol?,diet_nutrition,"Oats, nuts, fruits, and vegetables."
+What do you mean by do i need another scan after my treatment?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by what should i avoid eating during pregnancy?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by should i be concerned about high bmi?,cardiology,Between 60 and 100 beats per minute at rest.
+What do you mean by what are menopause symptoms?,gastroenterology,"Irritable Bowel Syndrome, a disorder affecting bowel habits."
+What do you mean by when should i return for follow-up?,child_health,Mild temperature rise can occur but not high fever.
+What do you mean by can stress affect digestion?,mens_health,"Fatigue, low libido, and mood changes."
+What do you mean by what is pcos?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by what are the signs of labor?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by should i be concerned about high bmi?,diet_nutrition,"Yes, lactose-free or plant-based alternatives work."
+What do you mean by how often should i feed my newborn?,pregnancy,"Regular contractions, water breaking, and lower back pain."
+What do you mean by are moles dangerous?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by how much water should i drink daily?,follow_up,Usually 7 to14 days after surgery depending on the area.
+What do you mean by is a sudden severe headache an emergency?,cardiology,"Headaches, dizziness, nosebleeds, or no symptoms at all."
+What do you mean by should i get re-tested after a positive diagnosis?,follow_up,"Yes,  toensure no side effects and track schedule."
+What do you mean by when should i start cancer screenings?,immunization,"Yes,  toprotect against seasonal flu variants."
+What do you mean by what are menopause symptoms?,child_health,Every 2 to3 hours.
+What do you mean by how  torelieve constipation?,orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by what is the normal weight for a newborn?,orthopedics,"Yes, but stick  tolow-impact and doctor-approved routines."
+What do you mean by can i exercise while pregnant?,mens_health,Usually after age 50 or earlier if at risk.
+What do you mean by can sinus infections cause headaches?,child_health,Between 2.5 kg and 4 kg.
+What do you mean by is irregular menstruation normal?,ent,"No, it protects the ear, but excess buildup may need removal."
+What do you mean by is hair loss in men genetic?,pregnancy,Typically 11 to16 kg for a normal BMI.
+What do you mean by do i need another scan after my treatment?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by why do i get frequent nosebleeds?,follow_up,"Yes,  toconfirm recovery or check response."
+What do you mean by what should i avoid eating during pregnancy?,lifestyle,7 to9 hours per night is ideal.
+What do you mean by how  torelieve constipation?,womens_health,"Occasionally yes, but chronic irregularity needs evaluation."
+What do you mean by is being underweight a health concern?,gastroenterology,"Increase fiber, hydrate, and stay active."
+What do you mean by how do i treat eczema?,medication_inquiry,"Yes, they can be taken together but follow dosage instructions."
+What do you mean by how do i prevent seasonal flu?,mental_health,"Persistent sadness, loss of interest, and fatigue."
+What do you mean by is chest pain always related  tothe heart?,ent,"Yes, sinus pressure often leads  tofacial pain or headaches."
+What do you mean by how much sleep do adults need?,immunization,"Fever, fatigue, and sore arm are common."
+What do you mean by what are the signs of a herniated disc?,ent,"No, it protects the ear, but excess buildup may need removal."
+What do you mean by is chest pain always related  tothe heart?,emergency,"Yes, anaphylaxis requires immediate EpiPen use."
+What do you mean by how is a blood sugar test done?,lifestyle,"Try meditation, breaks, time management, and counseling."
+What do you mean by how often should i get my thyroid levels checked?,ent,It's called tinnitus and can be caused by hearing loss or infections.
+What do you mean by is hair loss in men genetic?,medication_inquiry,It depends on the antibiotic; ask your doctor.
+What do you mean by what  todo in case of a seizure?,child_health,Mild temperature rise can occur but not high fever.
+What do you mean by can stress affect digestion?,womens_health,A hormonal disorder affecting ovulation and menstruation.
+What do you mean by what helps with dry skin?,emergency,"Keep person safe, donot restrain, call emergency."
+What do you mean by how do i know if i have arthritis?,general_health,"Annually, or more often with chronic issues."
+What do you mean by is being underweight a health concern?,lifestyle,"Try meditation, breaks, time management, and counseling."
+What do you mean by can vaccines cause autism?,general_health,"Yes, ideally every 6 months."
+What do you mean by do i need another scan after my treatment?,test_inquiry,"It shows detailed images of soft tissues, brain, and spine."
+What do you mean by is irregular menstruation normal?,medication_inquiry,Store unopened insulin in the refrigerator and opened at room temperature.
+What do you mean by do children require follow-ups after vaccination?,medication_inquiry,"Common side effects include nausea, diarrhea, and rash."
+"What do you mean by my child swallowed a battery, what should i do?",orthopedics,"Symptoms include joint pain, stiffness, and swelling."
+What do you mean by how often should adults get a health checkup?,mens_health,"Yes, male pattern baldness is hereditary."
+What do you mean by what are symptoms of high blood pressure?,mens_health,"Eat healthily, avoid alcohol and smoking, and exercise."
