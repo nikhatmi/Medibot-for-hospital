@@ -85,6 +85,7 @@ def run_model(answers):
 
 # Header
 st.subheader(":orange[AI-Powered MediBot]")
+st.image("image.png")
 col1, col2, col3 = st.columns([0.2, 0.6, 0.2])
 with col2:
 
